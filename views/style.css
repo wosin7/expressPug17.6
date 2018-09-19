@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+}
+
+form {
+	width: 30%;
+	margin: 0 auto;
+}
+input {
+	width: 55%;
+}
+p {
+	font-size: 20px;
+} 
+
+input {
+	margin: 10px auto;
+}
+
+span {
+	color: blue;
+}
